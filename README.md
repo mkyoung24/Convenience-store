@@ -1,1 +1,1 @@
-# Vue
+# Convenience store with Vue.js
