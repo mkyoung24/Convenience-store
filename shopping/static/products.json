@@ -1,0 +1,44 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "title": "홈런볼",
+            "price": 2000,
+            "image": "static/images/홈런볼.jpg",
+            "availableInventory": 10,
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "title": "젤리",
+            "price": 1700,
+            "image": "static/images/젤리.jpg",
+            "availableInventory": 10,
+            "rating": 3
+        },
+        {
+            "id": 3,
+            "title": "토레타",
+            "price": 2100,
+            "image": "static/images/토레타.jpg",
+            "availableInventory": 10,
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "title": "캔커피",
+            "price": 1000,
+            "image": "static/images/캔커피.jpg",
+            "availableInventory": 10,
+            "rating": 5
+        },
+        {
+            "id": 5,
+            "title": "육개장",
+            "price": 1200,
+            "image": "static/images/육개장.jpg",
+            "availableInventory": 10,
+            "rating": 5
+        }
+    ]
+}
